@@ -16,15 +16,15 @@
 </div>
 
 <br>
-<h3>🏴󠁧󠁢󠁳󠁣󠁴󠁿 Hud 'at ye bam!</h3> 
+<h2>🏴󠁧󠁢󠁳󠁣󠁴󠁿 Hud 'at ye bam!</h2> 
 I am a half French half Scottish full stack developer and product manager who has worked in both LegalTech and Fintech within the Stockholm ecosystem.    
 
 <br>
-<h3>💻 Why am I a programmer?</h3>
+<h2>💻 Why am I a programmer?</h2>
 I am driven by the constant desire to learn new things! I am currently learning about Svelte, aws serverless supabase and python but always up for a new challenge!  
 
 <br>
-<h3>🎿 And apart from programming?</h3>
+<h2>🎿 And apart from programming?</h2>
 I am also a passionate skier, a skateboarder and when I am not outside in the wilderness, I spend my time on my personal projects.
   
 <div align="center">
@@ -33,7 +33,7 @@ I am also a passionate skier, a skateboarder and when I am not outside in the wi
 </div>
 
 <br>
-<h3>📱 Favourite tools & apps:</h3>
+<h2>📱 Favourite tools & apps:</h2>
 
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white)
@@ -53,7 +53,7 @@ I am also a passionate skier, a skateboarder and when I am not outside in the wi
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jirasoftware&logoColor=white)
 
 <br>
-<h3>🖥 Languages, Frameworks and libraries</h3>
+<h2>🖥 Languages, Frameworks and libraries</h2>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white)
 ![NextJS](https://img.shields.io/badge/-NextJS-000000?logo=nextdotjs&logoColor=white)
@@ -90,7 +90,7 @@ I am also a passionate skier, a skateboarder and when I am not outside in the wi
 ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
 
 <br>
-<h3>👨🏼‍💻Services</h3>
+<h2>👨🏼‍💻Services</h2>
 
 ![Untappd](https://img.shields.io/badge/-Untappd-FFC000?logo=untappd&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white)
@@ -112,7 +112,7 @@ I am also a passionate skier, a skateboarder and when I am not outside in the wi
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white)
 
 <br>
-<h3>📊 Stats</h3>
+<h2>📊 Stats</h2>
 
 <div>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lambtsa&theme=dracula&layout=compact">
