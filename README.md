@@ -15,12 +15,15 @@
 	</a>
 </div>
 
+<br>
 <h3>🏴󠁧󠁢󠁳󠁣󠁴󠁿 Hud 'at ye bam!</h3> 
 I am a half French half Scottish full stack developer and product manager who has worked in both LegalTech and Fintech within the Stockholm ecosystem.    
 
+<br>
 <h3>💻 Why am I a programmer?</h3>
 I am driven by the constant desire to learn new things! I am currently learning about Svelte, aws serverless supabase and python but always up for a new challenge!  
 
+<br>
 <h3>🎿 And apart from programming?</h3>
 I am also a passionate skier, a skateboarder and when I am not outside in the wilderness, I spend my time on my personal projects.
   
@@ -29,6 +32,7 @@ I am also a passionate skier, a skateboarder and when I am not outside in the wi
 	<img src="https://media.giphy.com/media/2fUIykozdBWL9JuKIS/giphy.gif">
 </div>
 
+<br>
 <h3>📱 Favourite tools & apps:</h3>
 
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
@@ -48,8 +52,7 @@ I am also a passionate skier, a skateboarder and when I am not outside in the wi
 ![InVision](https://img.shields.io/badge/-InVision-FF3366?logo=invision&logoColor=white)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jirasoftware&logoColor=white)
 
-
-  
+<br>
 <h3>🖥 Languages, Frameworks and libraries</h3>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white)
@@ -86,7 +89,7 @@ I am also a passionate skier, a skateboarder and when I am not outside in the wi
 ![Chart.JS](https://img.shields.io/badge/-Chart.JS-FF6384?logo=chartdotjs&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
 
-
+<br>
 <h3>👨🏼‍💻Services</h3>
 
 ![Untappd](https://img.shields.io/badge/-Untappd-FFC000?logo=untappd&logoColor=white)
@@ -108,11 +111,10 @@ I am also a passionate skier, a skateboarder and when I am not outside in the wi
 ![Shields.io](https://img.shields.io/badge/-Shields%2Eio-000000?logo=shieldsdotio&logoColor=white)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white)
 
+<br>
 <h3>📊 Stats</h3>
 <div>
-	<br>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lambtsa&theme=dracula&layout=compact">
 	<br>
 	<img src="https://github-readme-stats.vercel.app/api?username=lambtsa&show_icons=true&hide=contribs&custom_title=My%20Github%20Stats&count_private=true&theme=dracula">
-	<br>
 </div>
