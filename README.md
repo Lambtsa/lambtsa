@@ -110,12 +110,3 @@ I am also a passionate skier, a skateboarder and when I am not outside in the wi
 ![MapBox](https://img.shields.io/badge/-MapBox-000000?logo=mapbox&logoColor=white)
 ![Shields.io](https://img.shields.io/badge/-Shields%2Eio-000000?logo=shieldsdotio&logoColor=white)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white)
-
-<br>
-<h2>📊 Stats</h2>
-
-<div>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lambtsa&theme=dracula&layout=compact">
-	<br>
-	<img src="https://github-readme-stats.vercel.app/api?username=lambtsa&show_icons=true&hide=contribs&custom_title=My%20Github%20Stats&count_private=true&theme=dracula">
-</div>
